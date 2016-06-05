@@ -1,0 +1,6 @@
+{
+  "http": {
+    "port": 4400
+  },
+  "api": "volunteer-backend:4200"
+}
