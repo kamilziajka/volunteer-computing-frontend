@@ -1,0 +1,12 @@
+{
+  "name": "volunteer-computing-frontend",
+  "version": "0.1.0",
+  "description": "Volunteer Computing Project Frontend",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazet15/volunteer-computing-frontend.git"
+  },
+  "author": "kazet",
+  "license": "MIT"
+}
