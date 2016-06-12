@@ -1,5 +1,7 @@
 'use strict';
 
+import '!style!css!less!./styles/index.less';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Root from './components/root';
